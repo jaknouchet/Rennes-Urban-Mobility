@@ -11,3 +11,5 @@ Discover urban mobility in Rennes métropole, France, through the eyes of a newc
 **Bus Lines:** For newcomers to Rennes, understanding the bus network can be bewildering. Our page provides clear schedules and routes for the city's bus lines, making public transportation easier to navigate.
 
 Whether you've recently moved to Rennes for work, study, or any other reason, our Bokeh web page on urban mobility is your essential companion for navigating the city with confidence. Join us for a stress-free travel experience in the charming city of Rennes!
+
+**Download Mobilité_Urbaine_Rennes.html file and enjoy**
